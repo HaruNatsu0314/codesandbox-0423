@@ -5,3 +5,4 @@
 var val11 = "var変数";
 console.log(val11);
 
+

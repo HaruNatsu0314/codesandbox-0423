@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["val11","console","log"],"mappings":";AAIA,IAAIA,EAAQ,QACZC,QAAQC,IAAIF","file":"src.856cb70d.js","sourceRoot":"..","sourcesContent":["/**\n * const let 等の変数宣言\n */\n\nvar val11 = \"var変数\";\nconsole.log(val11);\n\n\n"]}
